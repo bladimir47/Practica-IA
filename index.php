@@ -33,7 +33,7 @@ $res->llenarVariablesY($listaY);
 echo "Valor de n: ".$res->getValorN() . "<br>";
 
 $valN = $res->getValorN();
-$res->ejecutador($valM,$valN,$iter,0.1,$alfa,$tole);
+$res->ejecutador($valM,$valN,$iter,1.5,$alfa,$tole);
 
 
 /*
