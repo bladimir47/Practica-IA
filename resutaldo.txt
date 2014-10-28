@@ -1,0 +1,400 @@
+teta: 0 valor :0.1725 en iteracion: 1
+teta: 1 valor :0.2949125 en iteracion: 1
+teta: 2 valor :0.3537890125 en iteracion: 1
+
+teta: 0 valor :0.229368380025 en iteracion: 2
+teta: 1 valor :0.44786219920183 en iteracion: 2
+teta: 2 valor :0.55291455853126 en iteracion: 2
+
+teta: 0 valor :0.27397166362211 en iteracion: 3
+teta: 1 valor :0.56788646555381 en iteracion: 3
+teta: 2 valor :0.70914930128625 en iteracion: 3
+
+teta: 0 valor :0.30895133896706 en iteracion: 4
+teta: 1 valor :0.66207632344413 en iteracion: 4
+teta: 2 valor :0.83173047026451 en iteracion: 4
+
+teta: 0 valor :0.33638000697435 en iteracion: 5
+teta: 1 valor :0.73599563031012 en iteracion: 5
+teta: 2 valor :0.92790590798324 en iteracion: 5
+
+teta: 0 valor :0.35788390038287 en iteracion: 6
+teta: 1 valor :0.79400997677578 en iteracion: 6
+teta: 2 valor :1.0033625166848 en iteracion: 6
+
+teta: 0 valor :0.37473901637207 en iteracion: 7
+teta: 1 valor :0.83954475281753 en iteracion: 7
+teta: 2 valor :1.0625624321065 en iteracion: 7
+
+teta: 0 valor :0.38794654546223 en iteracion: 8
+teta: 1 valor :0.87528763520155 en iteracion: 8
+teta: 2 valor :1.1090067967842 en iteracion: 8
+
+teta: 0 valor :0.39829205557937 en iteracion: 9
+teta: 1 valor :0.90334746597187 en iteracion: 9
+teta: 2 valor :1.1454427255027 en iteracion: 9
+
+teta: 0 valor :0.40639192987323 en iteracion: 10
+teta: 1 valor :0.92537891388278 en iteracion: 10
+teta: 2 valor :1.1740256973848 en iteracion: 10
+
+teta: 0 valor :0.41272980339904 en iteracion: 11
+teta: 1 valor :0.94268028797276 en iteracion: 11
+teta: 2 valor :1.1964469742131 en iteracion: 11
+
+teta: 0 valor :0.41768515256969 en iteracion: 12
+teta: 1 valor :0.95627028540102 en iteracion: 12
+teta: 2 valor :1.2140335771531 en iteracion: 12
+
+teta: 0 valor :0.42155572740634 en iteracion: 13
+teta: 1 valor :0.96694821039439 en iteracion: 13
+teta: 2 valor :1.2278267318693 en iteracion: 13
+
+teta: 0 valor :0.4245751526406 en iteracion: 14
+teta: 1 valor :0.97534122406865 en iteracion: 14
+teta: 2 valor :1.2386434192152 en iteracion: 14
+
+teta: 0 valor :0.42692673813416 en iteracion: 15
+teta: 1 valor :0.98194141823563 en iteracion: 15
+teta: 2 valor :1.2471246699855 en iteracion: 15
+
+teta: 0 valor :0.42875431500101 en iteracion: 16
+teta: 1 valor :0.98713490476543 en iteracion: 16
+teta: 2 valor :1.2537734586107 en iteracion: 16
+
+teta: 0 valor :0.43017073799513 en iteracion: 17
+teta: 1 valor :0.99122464008335 en iteracion: 17
+teta: 2 valor :1.2589844358315 en iteracion: 17
+
+teta: 0 valor :0.43126455677133 en iteracion: 18
+teta: 1 valor :0.99444833404178 en iteracion: 18
+teta: 2 valor :1.2630672579595 en iteracion: 18
+
+teta: 0 valor :0.43210525038203 en iteracion: 19
+teta: 1 valor :0.99699250182638 en iteracion: 19
+teta: 2 valor :1.2662648918043 en iteracion: 19
+
+teta: 0 valor :0.43274733444034 en iteracion: 20
+teta: 1 valor :0.99900348955677 en iteracion: 20
+teta: 2 valor :1.2687679773379 en iteracion: 20
+
+teta: 0 valor :0.43323358373906 en iteracion: 21
+teta: 1 valor :1.0005961253455 en iteracion: 21
+teta: 2 valor :1.2707260971267 en iteracion: 21
+
+teta: 0 valor :0.43359756082652 en iteracion: 22
+teta: 1 valor :1.0018605072113 en iteracion: 22
+teta: 2 valor :1.2722566187086 en iteracion: 22
+
+teta: 0 valor :0.43386560001262 en iteracion: 23
+teta: 1 valor :1.0028673291054 en iteracion: 23
+teta: 2 valor :1.2734516326213 en iteracion: 23
+
+teta: 0 valor :0.43405836408704 en iteracion: 24
+teta: 1 valor :1.0036720598916 en iteracion: 24
+teta: 2 valor :1.2743833962136 en iteracion: 24
+
+teta: 0 valor :0.43419206577298 en iteracion: 25
+teta: 1 valor :1.0043182223157 en iteracion: 25
+teta: 2 valor :1.275108605044 en iteracion: 25
+
+teta: 0 valor :0.43427942612106 en iteracion: 26
+teta: 1 valor :1.0048399657952 en iteracion: 26
+teta: 2 valor :1.2756717443641 en iteracion: 26
+
+teta: 0 valor :0.43433042649755 en iteracion: 27
+teta: 1 valor :1.0052640851174 en iteracion: 27
+teta: 2 valor :1.2761077188062 en iteracion: 27
+
+teta: 0 valor :0.43435289861977 en iteracion: 28
+teta: 1 valor :1.0056116043786 en iteracion: 28
+teta: 2 valor :1.2764439157245 en iteracion: 28
+
+teta: 0 valor :0.43435298751782 en iteracion: 29
+teta: 1 valor :1.005899019795 en iteracion: 29
+teta: 2 valor :1.276701824163 en iteracion: 29
+
+teta: 0 valor :0.43433551478998 en iteracion: 30
+teta: 1 valor :1.0061392748559 en iteracion: 30
+teta: 2 valor :1.276898305152 en iteracion: 30
+
+teta: 0 valor :0.43430426362519 en iteracion: 31
+teta: 1 valor :1.0063425254604 en iteracion: 31
+teta: 2 valor :1.2770465884258 en iteracion: 31
+
+teta: 0 valor :0.43426220244132 en iteracion: 32
+teta: 1 valor :1.0065167402704 en iteracion: 32
+teta: 2 valor :1.2771570544812 en iteracion: 32
+
+teta: 0 valor :0.43421166035933 en iteracion: 33
+teta: 1 valor :1.0066681717673 en iteracion: 33
+teta: 2 valor :1.2772378482066 en iteracion: 33
+
+teta: 0 valor :0.43415446488616 en iteracion: 34
+teta: 1 valor :1.0068017258596 en iteracion: 34
+teta: 2 valor :1.2772953603571 en iteracion: 34
+
+teta: 0 valor :0.43409204994553 en iteracion: 35
+teta: 1 valor :1.0069212518888 en iteracion: 35
+teta: 2 valor :1.2773346053349 en iteracion: 35
+
+teta: 0 valor :0.43402554064235 en iteracion: 36
+teta: 1 valor :1.0070297701785 en iteracion: 36
+teta: 2 valor :1.2773595176096 en iteracion: 36
+
+teta: 0 valor :0.43395581977194 en iteracion: 37
+teta: 1 valor :1.0071296505768 en iteracion: 37
+teta: 2 valor :1.277373184299 en iteracion: 37
+
+teta: 0 valor :0.43388358000529 en iteracion: 38
+teta: 1 valor :1.0072227525465 en iteracion: 38
+teta: 2 valor :1.27737802766 en iteracion: 38
+
+teta: 0 valor :0.4338093648354 en iteracion: 39
+teta: 1 valor :1.0073105350853 en iteracion: 39
+teta: 2 valor :1.2773759482773 en iteracion: 39
+
+teta: 0 valor :0.4337336007052 en iteracion: 40
+teta: 1 valor :1.007394142972 en iteracion: 40
+teta: 2 valor :1.2773684374138 en iteracion: 40
+
+teta: 0 valor :0.43365662221618 en iteracion: 41
+teta: 1 valor :1.0074744744387 en iteracion: 41
+teta: 2 valor :1.2773566651649 en iteracion: 41
+
+teta: 0 valor :0.43357869190791 en iteracion: 42
+teta: 1 valor :1.0075522342688 en iteracion: 42
+teta: 2 valor :1.2773415496268 en iteracion: 42
+
+teta: 0 valor :0.43350001577775 en iteracion: 43
+teta: 1 valor :1.0076279754594 en iteracion: 43
+teta: 2 valor :1.277323811169 en iteracion: 43
+
+teta: 0 valor :0.43342075545815 en iteracion: 44
+teta: 1 valor :1.0077021319104 en iteracion: 44
+teta: 2 valor :1.2773040150176 en iteracion: 44
+
+teta: 0 valor :0.43334103777132 en iteracion: 45
+teta: 1 valor :1.0077750440747 en iteracion: 45
+teta: 2 valor :1.277282604668 en iteracion: 45
+
+teta: 0 valor :0.4332609622262 en iteracion: 46
+teta: 1 valor :1.0078469790831 en iteracion: 46
+teta: 2 valor :1.2772599281019 en iteracion: 46
+
+teta: 0 valor :0.43318060690082 en iteracion: 47
+teta: 1 valor :1.0079181465355 en iteracion: 47
+teta: 2 valor :1.2772362583574 en iteracion: 47
+
+teta: 0 valor :0.43310003305777 en iteracion: 48
+teta: 1 valor :1.0079887108911 en iteracion: 48
+teta: 2 valor :1.2772118096692 en iteracion: 48
+
+teta: 0 valor :0.43301928876571 en iteracion: 49
+teta: 1 valor :1.0080588011902 en iteracion: 49
+teta: 2 valor :1.2771867501334 en iteracion: 49
+
+teta: 0 valor :0.43293841174084 en iteracion: 50
+teta: 1 valor :1.0081285186822 en iteracion: 50
+teta: 2 valor :1.2771612116437 en iteracion: 50
+
+teta: 0 valor :0.43285743157655 en iteracion: 51
+teta: 1 valor :1.0081979428109 en iteracion: 51
+teta: 2 valor :1.2771352976883 en iteracion: 51
+
+teta: 0 valor :0.43277637149274 en iteracion: 52
+teta: 1 valor :1.0082671359107 en iteracion: 52
+teta: 2 valor :1.2771090894675 en iteracion: 52
+
+teta: 0 valor :0.43269524970846 en iteracion: 53
+teta: 1 valor :1.0083361468912 en iteracion: 53
+teta: 2 valor :1.2770826506939 en iteracion: 53
+
+teta: 0 valor :0.43261408051895 en iteracion: 54
+teta: 1 valor :1.0084050141286 en iteracion: 54
+teta: 2 valor :1.2770560313584 en iteracion: 54
+
+teta: 0 valor :0.43253287514066 en iteracion: 55
+teta: 1 valor :1.0084737677342 en iteracion: 55
+teta: 2 valor :1.2770292706858 en iteracion: 55
+
+teta: 0 valor :0.43245164237437 en iteracion: 56
+teta: 1 valor :1.0085424313346 en iteracion: 56
+teta: 2 valor :1.2770023994528 en iteracion: 56
+
+teta: 0 valor :0.43237038912539 en iteracion: 57
+teta: 1 valor :1.0086110234677 en iteracion: 57
+teta: 2 valor :1.2769754418081 en iteracion: 57
+
+teta: 0 valor :0.4322891208118 en iteracion: 58
+teta: 1 valor :1.0086795586794 en iteracion: 58
+teta: 2 valor :1.2769484166994 en iteracion: 58
+
+teta: 0 valor :0.43220784168476 en iteracion: 59
+teta: 1 valor :1.0087480483826 en iteracion: 59
+teta: 2 valor :1.2769213389939 en iteracion: 59
+
+teta: 0 valor :0.43212655507981 en iteracion: 60
+teta: 1 valor :1.0088165015327 en iteracion: 60
+teta: 2 valor :1.2768942203567 en iteracion: 60
+
+teta: 0 valor :0.43204526361408 en iteracion: 61
+teta: 1 valor :1.008884925156 en iteracion: 61
+teta: 2 valor :1.2768670699407 en iteracion: 61
+
+teta: 0 valor :0.43196396934098 en iteracion: 62
+teta: 1 valor :1.008953324766 en iteracion: 62
+teta: 2 valor :1.2768398949274 en iteracion: 62
+
+teta: 0 valor :0.43188267387165 en iteracion: 63
+teta: 1 valor :1.0090217046886 en iteracion: 63
+teta: 2 valor :1.2768127009519 en iteracion: 63
+
+teta: 0 valor :0.43180137847017 en iteracion: 64
+teta: 1 valor :1.0090900683182 en iteracion: 64
+teta: 2 valor :1.2767854924354 en iteracion: 64
+
+teta: 0 valor :0.43172008412833 en iteracion: 65
+teta: 1 valor :1.0091584183181 en iteracion: 65
+teta: 2 valor :1.2767582728471 en iteracion: 65
+
+teta: 0 valor :0.43163879162427 en iteracion: 66
+teta: 1 valor :1.0092267567783 en iteracion: 66
+teta: 2 valor :1.276731044909 en iteracion: 66
+
+teta: 0 valor :0.43155750156847 en iteracion: 67
+teta: 1 valor :1.0092950853385 en iteracion: 67
+teta: 2 valor :1.2767038107567 en iteracion: 67
+
+teta: 0 valor :0.43147621443989 en iteracion: 68
+teta: 1 valor :1.0093634052854 en iteracion: 68
+teta: 2 valor :1.276676572066 en iteracion: 68
+
+teta: 0 valor :0.43139493061428 en iteracion: 69
+teta: 1 valor :1.0094317176286 en iteracion: 69
+teta: 2 valor :1.2766493301518 en iteracion: 69
+
+teta: 0 valor :0.4313136503864 en iteracion: 70
+teta: 1 valor :1.0095000231603 en iteracion: 70
+teta: 2 valor :1.2766220860456 en iteracion: 70
+
+teta: 0 valor :0.43123237398748 en iteracion: 71
+teta: 1 valor :1.0095683225023 en iteracion: 71
+teta: 2 valor :1.2765948405569 en iteracion: 71
+
+teta: 0 valor :0.43115110159888 en iteracion: 72
+teta: 1 valor :1.0096366161424 en iteracion: 72
+teta: 2 valor :1.2765675943209 en iteracion: 72
+
+teta: 0 valor :0.43106983336285 en iteracion: 73
+teta: 1 valor :1.0097049044633 en iteracion: 73
+teta: 2 valor :1.2765403478357 en iteracion: 73
+
+teta: 0 valor :0.43098856939096 en iteracion: 74
+teta: 1 valor :1.0097731877655 en iteracion: 74
+teta: 2 valor :1.2765131014924 en iteracion: 74
+
+teta: 0 valor :0.43090730977067 en iteracion: 75
+teta: 1 valor :1.0098414662847 en iteracion: 75
+teta: 2 valor :1.2764858555977 en iteracion: 75
+
+teta: 0 valor :0.43082605457056 en iteracion: 76
+teta: 1 valor :1.0099097402061 en iteracion: 76
+teta: 2 valor :1.2764586103922 en iteracion: 76
+
+teta: 0 valor :0.43074480384439 en iteracion: 77
+teta: 1 valor :1.0099780096748 en iteracion: 77
+teta: 2 valor :1.2764313660648 en iteracion: 77
+
+teta: 0 valor :0.43066355763426 en iteracion: 78
+teta: 1 valor :1.0100462748048 en iteracion: 78
+teta: 2 valor :1.2764041227636 en iteracion: 78
+
+teta: 0 valor :0.43058231597317 en iteracion: 79
+teta: 1 valor :1.0101145356857 en iteracion: 79
+teta: 2 valor :1.2763768806049 en iteracion: 79
+
+teta: 0 valor :0.43050107888694 en iteracion: 80
+teta: 1 valor :1.0101827923877 en iteracion: 80
+teta: 2 valor :1.2763496396796 en iteracion: 80
+
+teta: 0 valor :0.43041984639577 en iteracion: 81
+teta: 1 valor :1.010251044966 en iteracion: 81
+teta: 2 valor :1.2763224000595 en iteracion: 81
+
+teta: 0 valor :0.43033861851547 en iteracion: 82
+teta: 1 valor :1.0103192934639 en iteracion: 82
+teta: 2 valor :1.2762951618005 en iteracion: 82
+
+teta: 0 valor :0.43025739525837 en iteracion: 83
+teta: 1 valor :1.0103875379156 en iteracion: 83
+teta: 2 valor :1.2762679249467 en iteracion: 83
+
+teta: 0 valor :0.4301761766341 en iteracion: 84
+teta: 1 valor :1.0104557783478 en iteracion: 84
+teta: 2 valor :1.2762406895325 en iteracion: 84
+
+teta: 0 valor :0.43009496265013 en iteracion: 85
+teta: 1 valor :1.0105240147815 en iteracion: 85
+teta: 2 valor :1.276213455585 en iteracion: 85
+
+teta: 0 valor :0.4300137533123 en iteracion: 86
+teta: 1 valor :1.0105922472333 en iteracion: 86
+teta: 2 valor :1.2761862231254 en iteracion: 86
+
+teta: 0 valor :0.42993254862511 en iteracion: 87
+teta: 1 valor :1.0106604757163 en iteracion: 87
+teta: 2 valor :1.2761589921703 en iteracion: 87
+
+teta: 0 valor :0.42985134859205 en iteracion: 88
+teta: 1 valor :1.0107287002408 en iteracion: 88
+teta: 2 valor :1.2761317627327 en iteracion: 88
+
+teta: 0 valor :0.42977015321579 en iteracion: 89
+teta: 1 valor :1.0107969208148 en iteracion: 89
+teta: 2 valor :1.2761045348229 en iteracion: 89
+
+teta: 0 valor :0.42968896249836 en iteracion: 90
+teta: 1 valor :1.0108651374449 en iteracion: 90
+teta: 2 valor :1.2760773084488 en iteracion: 90
+
+teta: 0 valor :0.42960777644131 en iteracion: 91
+teta: 1 valor :1.010933350136 en iteracion: 91
+teta: 2 valor :1.2760500836166 en iteracion: 91
+
+teta: 0 valor :0.42952659504579 en iteracion: 92
+teta: 1 valor :1.0110015588923 en iteracion: 92
+teta: 2 valor :1.2760228603313 en iteracion: 92
+
+teta: 0 valor :0.42944541831265 en iteracion: 93
+teta: 1 valor :1.011069763717 en iteracion: 93
+teta: 2 valor :1.2759956385966 en iteracion: 93
+
+teta: 0 valor :0.4293642462425 en iteracion: 94
+teta: 1 valor :1.0111379646125 en iteracion: 94
+teta: 2 valor :1.2759684184155 en iteracion: 94
+
+teta: 0 valor :0.42928307883575 en iteracion: 95
+teta: 1 valor :1.011206161581 en iteracion: 95
+teta: 2 valor :1.2759411997903 en iteracion: 95
+
+teta: 0 valor :0.42920191609267 en iteracion: 96
+teta: 1 valor :1.0112743546243 en iteracion: 96
+teta: 2 valor :1.2759139827229 en iteracion: 96
+
+teta: 0 valor :0.42912075801342 en iteracion: 97
+teta: 1 valor :1.0113425437435 en iteracion: 97
+teta: 2 valor :1.2758867672145 en iteracion: 97
+
+teta: 0 valor :0.42903960459806 en iteracion: 98
+teta: 1 valor :1.0114107289398 en iteracion: 98
+teta: 2 valor :1.2758595532663 en iteracion: 98
+
+teta: 0 valor :0.42895845584658 en iteracion: 99
+teta: 1 valor :1.0114789102143 en iteracion: 99
+teta: 2 valor :1.2758323408791 en iteracion: 99
+
+teta: 0 valor :0.42887731175892 en iteracion: 100
+teta: 1 valor :1.0115470875675 en iteracion: 100
+teta: 2 valor :1.2758051300535 en iteracion: 100
+
